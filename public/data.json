@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J77",
+  "range": "'スポットデータ'!A1:J76",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -18,22 +18,13 @@
       "2022/05/11 14:46:34",
       "オフィス",
       "https://geolonia.github.io/logo/geolonia-logo_b2.jpg",
-      "35.874083",
-      "139.655129",
-      "まごころ浦和元町",
-      "048-885-5700",
-      "",
-      "mago_motomachi",
-      "https://geolonia.com"
-    ],
-    [
-      "",
-      "オフィス",
-      "https://geolonia.github.io/logo/geolonia-logo_b2.jpg",
       "35.881569",
       "139.603363",
       "居宅介護支援事業所　かえで　桜区",
-      "048-753-9062"
+      "048-753-9062",
+      "",
+      "mago_motomachi",
+      "https://geolonia.com"
     ],
     [
       "",
